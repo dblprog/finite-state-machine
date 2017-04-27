@@ -1,6 +1,6 @@
 CFLAGS= -std=c99 -O3
 
-fsm: fsm.o 
+fsm: fsm.o  
 
 
 clean:
